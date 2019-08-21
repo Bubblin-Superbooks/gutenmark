@@ -15,4 +15,4 @@ Samples of first few hundred titles off Gutenberg.org regenerated as markdown fi
 * All pieces that aren't covered on BoW are handled separately either through persistent `json` or dynamically generated using a hydratable template on [Bookiza Abelone](https://bookiza.io). 
 
 
-TODO: This is just a start.
+TODO: Many things.
