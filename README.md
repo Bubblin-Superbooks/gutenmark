@@ -1,6 +1,6 @@
 # Gutendown
 
-Samples of first few hundred titles off Gutenberg.org regenerated as markdown files. 
+Sample of a first few hundred titles off Gutenberg.org regenerated as clean markdown files. 
 
 
 #### Rules & Assumptions
@@ -12,7 +12,7 @@ Samples of first few hundred titles off Gutenberg.org regenerated as markdown fi
 5. First five leafs on a book are not considered a part of the BoW.
 6. Last three leafs on a book are not considered a part of the BoW.
 
-* All pieces that aren't covered on BoW are handled separately either through persistent `json` or dynamically generated using a hydratable template on [Bookiza Abelone](https://bookiza.io). 
+All pieces of data that aren't covered on the BoW are handled separately either through a persistent `json` or a hydratable HTML template on [Bookiza Abelone](https://bookiza.io). 
 
 
 TODO: Many things.
